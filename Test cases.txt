@@ -1,0 +1,35 @@
+Summary: Verify the "Image" content section in the Google search for "Prowly" searching
+Preconditions:
+-Windows 10
+-Google Chrome borwser v. 116.0.5
+Steps // Expected result :
+1 Open the "Google Chrome" browser // Google chrome is opened
+2 Open the "Google" website // Google in opened
+3 In the search fields enter the "Prowly" // Successfully entered text
+4 Click on the "Search" button // Redirect to the list of search with the "Prowly" keyword
+5 In the Nacigation bar select the "Image" section // Redirect to the list of image with the "Prowly" keyword
+6 Verify image in this section // priority is given to images taken from the "Prowly" company website
+
+Summary: Verify the "Video" content section in the Google search for "Prowly" searching
+Preconditions:
+-Windows 10
+-Google Chrome borwser v. 116.0.5
+Steps // Expected result :
+1 Open the "Google Chrome" browser // Google chrome is opened
+2 Open the "Google" website // Google in opened
+3 In the search fields enter the "Prowly" // Successfully entered text
+4 Click on the "Search" button // Redirect to the list of search with the "Prowly" keyword
+5 In the Nacigation bar select the "Video" section // Redirect to the list of video with the "Prowly" keyword
+6 Verify video in this section // priority is given to video taken from the "Prowly" company website
+
+Summary: Verify the "Careers" content section in the Google search for "Prowly" searching
+Preconditions:
+-Windows 10
+-Google Chrome borwser v. 116.0.5
+Steps // Expected result :
+1 Open the "Google Chrome" browser // Google chrome is opened
+2 Open the "Google" website // Google in opened
+3 In the search fields enter the "Prowly" // Successfully entered text
+4 Click on the "Search" button // Redirect to the list of search with the "Prowly" keyword
+5 In the Nacigation bar select the "Carrers" section // Redirect to the list of Carrers with the "Prowly" keyword
+6 Verify website in this section // priority is given to Carrers taken from the "Prowly" company website
